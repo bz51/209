@@ -188,7 +188,7 @@
 
 
 
-	<!-- 论著｛ -->
+	<!-- 论著｛{ -->
 	<h1 id="member" style="text-align: left;margin-left: 100px;margin-top: 30px;">Publications</h1>
 	<hr class="featurette-divider">
 	<div class="jumbotron" style="text-align: left; font-size: 16px;">
