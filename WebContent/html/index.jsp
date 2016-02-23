@@ -93,11 +93,7 @@
          -->
       </div>
 
-      <!-- Three columns of text below the carousel -->
       
-      
-      
-      <!-- START THE FEATURETTES -->
 	
 	<h1 style="text-align: left;margin-left: 100px;margin-top: 30px;" id="project">Projects</h1>
 	<!-- <div id="project" class="alert alert-info" role="alert" style="padding-top:5px;padding-bottom: 5px;margin-bottom: 1px;">

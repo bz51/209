@@ -1,5 +1,6 @@
 package com.nupt.dao;
 
+import java.lang.reflect.ParameterizedType;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -156,5 +157,7 @@ public class MembersDaoImpl implements MembersDao {
 		
 		return list_project;
 	}
+ 
+
 
 }
